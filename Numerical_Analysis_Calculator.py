@@ -124,7 +124,7 @@ class CalculatorWindow(object):
 	def newtonsMethod(self):
 		#optimal number of iterations to ensure convergence. However, method 
 		#converges pretty fast.
-		iterations = 1000
+		iterations = 1550
 		x = float(self.rootInput)
 		function = self.parsedFunction
 		#this value must be initialized to compare for convergence later.

@@ -1,6 +1,6 @@
 Numerical Analysis Calculator Readme
 
-My project is a calculator that allows the user to input an expanded polynomial and it 
+My project is a calculator that allows the user to input an expanded polynomial expression and it 
 shows the user the derivative and integral of the function as polynomial expressions. 
 It also allows users to evaluate the derivative of a function at a point, which allows them 
 to get the rate of change of the function. The program also allows the user to evaluate the 
